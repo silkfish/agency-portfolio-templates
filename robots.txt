@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agency-portfolio-templates.vercel.app/sitemap.xml
